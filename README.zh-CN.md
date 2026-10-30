@@ -4,6 +4,12 @@
 
 [English](./README.md) · **简体中文**
 
+## 简介
+
+SimplexAI 是开源、本地优先的个人 AI 工作空间，把你的资料、工具和 Agent 组织在自己掌握的设备上。
+
+个人助手 **Another Me** 通过 Profile 和个人 Wiki 了解你的背景，主动跟进事项，并组织其他 Agent 在同一个 Room 中协作、交付成果。
+
 ## 本地优先
 
 自托管工作空间，Agent 在自己的电脑上运行，使用本机文件、工具与登录态。支持 Codex、Claude Code 和 Pi。

@@ -4,6 +4,12 @@
 
 **English** · [Simplified Chinese](./README.zh-CN.md)
 
+## Overview
+
+SimplexAI is an open-source, local-first personal AI workspace that brings your files, tools, and agents together on devices you control.
+
+Your assistant, **Another Me**, uses your Profile and Personal Wiki to understand your context, follows up on open items, and brings agents into a Room to collaborate and deliver results.
+
 ## Local first
 
 Self-host your workspace. Run agents on your computers with local files, tools, and existing sign-ins. Supports Codex, Claude Code, and Pi.
