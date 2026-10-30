@@ -1,30 +1,38 @@
 # SimplexAI
 
-**Open-source, local-first personal AI.**
+**Turn your computer into a personal AI workspace.**
+
+Open-source, local-first AI that knows your context, follows up, and brings agents together to get things done.
 
 **English** · [Simplified Chinese](./README.zh-CN.md)
 
+> 📎 **Main demo video**
+
+<!-- MEDIA 02: Show the connected local computer, Profile, a proactive follow-up, agent collaboration, and the final deliverable. Paste the uploaded video URL here. -->
+
 ## Overview
 
-SimplexAI turns your own computer into a working environment for personal AI. Connect local files, tools, and existing agent runtimes so your AI can recover project context, do the work, and leave results you can keep editing.
+SimplexAI connects **your files, tools, and agent runtimes** in a workspace you can run yourself. Your AI works with your existing project environment, retrieves past decisions, and keeps its outputs ready for the next session.
 
-**Another Me** is your personal assistant. It uses your Profile and Personal Wiki to understand your background and keeps track of things worth following up on. When a task needs several roles, it brings other agents into a Room to divide the work, hand off results, and review.
+**Another Me is your personal assistant.** It uses your Profile and Personal Wiki to understand your background, follows up on open items, and brings other agents into a Room when a task needs several roles. You can see the work, add instructions, and open the results in the same place.
 
-Pick up a project you paused, or ask it to check preparations before Friday's demo. Set the goal, see progress, add instructions, and open the final files—all in one workspace.
+> “Pick up our previous project. Check preparations before Friday's demo, and bring in research and development agents to help build it.”
 
 ## What it does
 
-- **Works on your computer.** Uses local files, CLI tools, and existing sign-ins, bringing your project environment into the workflow.
-- **Picks up your context.** Your Profile captures your background and preferences; Personal Wiki keeps project knowledge and sources, reducing repeated explanations.
-- **Follows things through.** Tracks commitments, to-dos, and deadlines, schedules checks, and reaches out when something needs your attention.
-- **Gets agents working together.** Brings research, development, and review roles into one Room, where you can follow handoffs and add instructions.
-- **Leaves usable results.** Documents and files stay in the workspace, ready to preview, revise, save, and continue later.
+- **Your computer does the work.** Use local files, CLI tools, and existing sign-ins to turn your current setup into an AI working environment.
+- **Pick up where you left off.** Profile and Personal Wiki bring back your preferences, project knowledge, and earlier decisions, with less repeated explanation.
+- **Get proactive follow-ups.** Track commitments and deadlines, schedule checks, and hear from Another Me when something needs attention.
+- **Put your agents in one room.** Research, development, and review agents divide the work, hand off results, and respond to your input.
+- **Keep the results.** Documents, prototypes, and other files stay in the workspace, ready to preview, revise, and continue later.
 
 ## Local first
 
-Self-host your workspace. Run agents on your computers with local files, tools, and existing sign-ins. Supports Codex, Claude Code, and Pi.
+**Run the workspace yourself. Choose the agent environment. Adapt the code.**
 
-Cloud models and apps send requests to their respective services.
+Connect Codex, Claude Code, or Pi on your own computers. Reuse local tools and supported Skills, and choose from the models available in each runtime.
+
+Local execution and self-hosting are under your control. Cloud models and connected apps send requests to their respective services.
 
 > 📎 **Local setup screenshot**
 
@@ -32,13 +40,9 @@ Cloud models and apps send requests to their respective services.
 
 ## Feature demos
 
-> 📎 **Main demo video**
+### Profile and personal knowledge
 
-<!-- MEDIA 02: Paste your uploaded demo video URL here. -->
-
-### Profile and knowledge
-
-Organize authorized sources into a Profile and Personal Wiki, giving Another Me your personal and project context.
+**Give your AI the background it needs.** Organize authorized sources into a Profile and Personal Wiki, then retrieve project context and original material when continuing work.
 
 > 📎 **Profile screenshot or recording**
 
@@ -46,7 +50,7 @@ Organize authorized sources into a Profile and Personal Wiki, giving Another Me 
 
 ### Proactive reminders
 
-Track commitments and deadlines, receive proactive reminders, and schedule follow-ups.
+**Give a goal a follow-up.** Set a preparation check, track a deadline, or follow a relevant change in a connected app. Another Me can return with what needs your attention.
 
 > 📎 **Proactive reminder recording**
 
@@ -54,10 +58,12 @@ Track commitments and deadlines, receive proactive reminders, and schedule follo
 
 ### Agent group collaboration
 
-Bring agents into one Room to split work, hand off results, review, and deliver files.
+**Watch the handoff, then open the result.** Use a shared Room for discussion and delivery, Collaboration for the agreed roles and handoffs, and Activity for actual execution.
 
 > 📎 **Group collaboration recording**
 
 <!-- MEDIA 05: ![Agent collaboration](./assets/collaboration-demo.gif) -->
 
 > Documentation preview. Proactive reminders and first-run Profile generation are experimental.
+
+**Building your own personal AI? Star SimplexAI to follow its development.**
