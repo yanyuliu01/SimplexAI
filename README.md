@@ -6,17 +6,19 @@
 
 ## Overview
 
-SimplexAI is an open-source, local-first personal AI workspace that brings your files, tools, and agents together on devices you control.
+SimplexAI turns your own computer into a working environment for personal AI. Connect local files, tools, and existing agent runtimes so your AI can recover project context, do the work, and leave results you can keep editing.
 
-Your assistant, **Another Me**, uses your Profile and Personal Wiki to understand your context, follows up on open items, and brings agents into a Room to collaborate and deliver results.
+**Another Me** is your personal assistant. It uses your Profile and Personal Wiki to understand your background and keeps track of things worth following up on. When a task needs several roles, it brings other agents into a Room to divide the work, hand off results, and review.
+
+Pick up a project you paused, or ask it to check preparations before Friday's demo. Set the goal, see progress, add instructions, and open the final files—all in one workspace.
 
 ## What it does
 
-- **Runs locally.** Uses your computers, files, CLI tools, and existing sign-ins.
-- **Organizes your context.** Builds a Profile and Personal Wiki from authorized sources.
-- **Follows up proactively.** Tracks commitments and deadlines, with reminders and scheduled checks.
-- **Coordinates agents.** Brings specialist agents into one Room to divide work, hand off, and review.
-- **Delivers files.** Creates documents and files you can preview, revise, and keep.
+- **Works on your computer.** Uses local files, CLI tools, and existing sign-ins, bringing your project environment into the workflow.
+- **Picks up your context.** Your Profile captures your background and preferences; Personal Wiki keeps project knowledge and sources, reducing repeated explanations.
+- **Follows things through.** Tracks commitments, to-dos, and deadlines, schedules checks, and reaches out when something needs your attention.
+- **Gets agents working together.** Brings research, development, and review roles into one Room, where you can follow handoffs and add instructions.
+- **Leaves usable results.** Documents and files stay in the workspace, ready to preview, revise, save, and continue later.
 
 ## Local first
 
