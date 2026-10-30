@@ -6,7 +6,7 @@
 
 An open-source, local-first personal AI that gets to know you, takes initiative, and brings agents together to get things done.
 
-**English** · [Bilingual](./README.bilingual.md)
+**English** · [Simplified Chinese](./README.zh-CN.md)
 
 [Meet Simplex](#meet-simplex) · [See it in action](#see-it-in-action) · [Yours to run](#yours-to-run)
 
@@ -14,7 +14,14 @@ An open-source, local-first personal AI that gets to know you, takes initiative,
 
 > Product preview — this repository currently hosts product documentation.
 
-<!-- Main demo: Profile; a proactive follow-up from Another Me; Room collaboration with the Collaboration sidebar; open the actual deliverable. -->
+> 📎 **Media 01 · Main demo**
+>
+> Add a 60–90 second video: Profile → a proactive follow-up → Room collaboration → open the final deliverable.
+
+<!-- MEDIA SLOT 01-main-demo
+Replace the placeholder block above with your video link or image. Example:
+[![Watch the demo](./assets/main-demo-cover.png)](PASTE_VIDEO_URL_HERE)
+-->
 
 <a id="meet-simplex"></a>
 
@@ -42,7 +49,14 @@ Projects, conversations, and files can also become a Personal Wiki, organized ar
 
 > Pick up our previous project. Find the decisions we've already made and the questions still open.
 
-<!-- Profile demo: Add source; generate the Profile; show the experience timeline and five modules; add a source and show the update. Follow with a Wiki project page and retrieval of original material. -->
+> 📎 **Media 02 · Profile**
+>
+> Add a screenshot or short recording of Add source, the experience timeline and five Profile modules, and an update after adding a new source.
+
+<!-- MEDIA SLOT 02-profile
+Replace the placeholder block above with your video link or image. Example:
+![Profile](./assets/profile-demo.gif)
+-->
 
 ### It takes initiative
 
@@ -56,7 +70,14 @@ With proactive reminders enabled and supported apps connected, new mail, calenda
 
 When the Routine runs, Another Me checks the preparations and comes back with the results. Adjust the request in the conversation, or manage the Routine from the Room sidebar.
 
-<!-- Proactive demo: state a goal; show the Room Routine; show Another Me returning with findings and prepared material. Optionally add a reminder triggered by a change in an authorized app. -->
+> 📎 **Media 03 · Proactive follow-up**
+>
+> Add a screenshot or short recording of the goal, its Room Routine, and Another Me returning with findings and prepared material.
+
+<!-- MEDIA SLOT 03-proactive
+Replace the placeholder block above with your video link or image. Example:
+![Proactive follow-up](./assets/proactive-demo.gif)
+-->
 
 ### Bring your agents into one room
 
@@ -70,7 +91,14 @@ Agents can make explicit assignments, hand results to the next person or agent, 
 
 Open **Collaboration** in the sidebar to see the agreed roles, handoffs, and reporting relationships. Use **Activity** to inspect what agents are actually doing. Documents and files return to the Room, where you can preview them, keep editing, and organize them in Library.
 
-<!-- Collaboration demo: confirm Room creation; show the agent assignments and Collaboration graph; capture a real handoff and a revision after review; open the final output. The graph shows the agreed workflow; Activity shows actual execution. -->
+> 📎 **Media 04 · Agent collaboration**
+>
+> Add a screenshot or short recording of the Room, Collaboration graph, a real handoff, a revision after review, and the final output.
+
+<!-- MEDIA SLOT 04-collaboration
+Replace the placeholder block above with your video link or image. Example:
+![Agent collaboration](./assets/collaboration-demo.gif)
+-->
 
 > In active development. Proactive reminders and first-run Profile generation are enabled through an experimental feature switch.
 
@@ -86,5 +114,13 @@ Open **Collaboration** in the sidebar to see the agreed roles, handoffs, and rep
 | Use your tools and Skills | Reuse local tools and supported Skills to extend your own workflows. |
 | Make it your own | Use the open-source code to understand and adapt the assistant, tool integrations, and collaboration mechanisms. |
 
-Local first means you can deploy and control the workspace and execution environment. When you choose cloud models or external apps, the corresponding requests are still sent to those services.
+> 📎 **Media 05 · Local setup**
+>
+> Add a screenshot of the Local Computer, Runtime, model selection, or agent configuration.
 
+<!-- MEDIA SLOT 05-local-setup
+Replace the placeholder block above with your video link or image. Example:
+![Local setup](./assets/local-setup.png)
+-->
+
+Local first means you can deploy and control the workspace and execution environment. When you choose cloud models or external apps, the corresponding requests are still sent to those services.
